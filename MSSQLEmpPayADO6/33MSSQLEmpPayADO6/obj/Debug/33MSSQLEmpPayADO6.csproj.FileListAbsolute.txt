@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\bin\Debug\33MSSQLEmpPayADO6.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\bin\Debug\33MSSQLEmpPayADO6.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\bin\Debug\33MSSQLEmpPayADO6.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\obj\Debug\33MSSQLEmpPayADO6.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\obj\Debug\33MSSQLEmpPayADO6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\obj\Debug\33MSSQLEmpPayADO6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\obj\Debug\33MSSQLEmpPayADO6.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day33-ADO\MSSQLEmpPayADO6\33MSSQLEmpPayADO6\obj\Debug\33MSSQLEmpPayADO6.pdb
